@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\VS19\\MacroUploader\\MacroUploader\\bin\\Debug\\netcoreapp3.1\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\VS19\\MacroUploader\\MacroUploader\\bin\\Debug\\netcoreapp3.1\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "D:\\VS19\\MacroUploader\\MacroUploader\\bin\\Debug\\netcoreapp3.1\\build\\sketch\\mcrobuild.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
